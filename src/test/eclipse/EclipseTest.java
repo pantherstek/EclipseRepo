@@ -6,5 +6,9 @@ public class EclipseTest {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void changesFromRemote(){
+		
+	}
 
 }
